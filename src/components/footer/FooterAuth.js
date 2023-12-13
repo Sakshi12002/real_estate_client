@@ -40,7 +40,7 @@ export default function Footer() {
             fontWeight='500'
             target="_blank"
             color={textColor}
-            href='https://prolinkinfotech.com/'> Prolink Infotech.</Link> All Rights Reserved.
+            href='#'> Atmiya Group </Link> All Rights Reserved.
         </Text>
       </Text>
       {/* <List display='flex'>

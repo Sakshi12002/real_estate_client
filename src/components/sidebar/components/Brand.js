@@ -12,7 +12,7 @@ export function SidebarBrand() {
 
   return (
     <Flex align='center' direction='column'>
-      <Heading mb={5}>Prolink</Heading>
+      <Heading mb={5}>Atmiya Group</Heading>
       <HSeparator mb='20px' />
     </Flex>
   );
